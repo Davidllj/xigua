@@ -1,0 +1,29 @@
+{
+  "name": "xigua",
+  "version": "0.0.1",
+  "description": "yigeda",
+  "main": "index.js",
+  "scripts": {
+    "test": "yige"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidllj/xigua.git"
+  },
+  "keywords": [
+    "yigedaxigua"
+  ],
+  "author": "Myself",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Davidllj/xigua/issues"
+  },
+  "homepage": "https://github.com/Davidllj/xigua#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-stylus": "^2.5.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
